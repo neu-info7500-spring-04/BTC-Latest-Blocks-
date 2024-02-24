@@ -17,7 +17,7 @@ node index.js
 **Start the Frontend**
 
 ```
-cd frontend
+cd ../frontend
 npm install
 npm start
 ```
