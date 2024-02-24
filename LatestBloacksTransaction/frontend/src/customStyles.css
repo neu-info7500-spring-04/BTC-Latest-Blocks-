@@ -1,0 +1,45 @@
+
+.ant-table-wrapper .ant-table-container {
+    background-color: #1d2127;
+    color: #fff;
+    font-size:20px;
+}
+
+.ant-table-wrapper .ant-table-thead>tr>th{
+    color:#73838e;
+    background-color:#1d2127 ;
+      border-right: none;
+border-bottom:0.5px solid #525c74;
+}
+
+.my-custom-table .ant-table thead th.ant-table-cell::before {
+    display: none;
+}
+
+.ant-tabs .ant-tabs-tab{
+font-size: 27px;
+}
+
+.ant-table-tbody>tr>td {
+    border-bottom: 1px solid #303030;
+}
+
+.ant-table-tbody>tr:hover>td {
+    background-color: #262626;
+  
+}
+
+
+.ant-pagination {
+    color: #fff;
+}
+
+.ant-pagination-item {
+    background-color: #141414;
+    border-color: #303030;
+}
+
+.ant-pagination-item-active {
+    background-color: #1d1d1d;
+    border-color: #fff;
+}
