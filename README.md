@@ -1,5 +1,3 @@
-##### Student Name: Yazhen Han NUid:002950305
-
 ##### github username:ashisland11
 
 The "Latest Blocks" feature is presented through a React.js frontend for an intuitive UI, and a Node.js/Express backend for robust API handling, utilizing Bitquery API and GraphQL to source real-time blockchain data from the Bitcoin testnet, ensuring secure and up-to-date block information.
